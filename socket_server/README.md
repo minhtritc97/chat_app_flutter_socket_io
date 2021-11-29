@@ -6,10 +6,10 @@ This app make a simple socket.io server
 - [x] `npm` installed
 
 ## Usage
-### Import
-  This server default running on your localhost id (Ex: `http://localhost:3000`)
-
+ - Open Terminal and navigate to the folder that contains the file "index.js"
+ - Run 
 ```bash
-$ npm install
-$ node index.js
+ npm install
+ node index.js
 ```
+- It's successful if you see "Server started success" when go to localhost:3000
